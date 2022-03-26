@@ -1,0 +1,10 @@
+curs udemy : Recommendation system Real World Projects using Python
+autor Shan Singh
+What you’ll learn:
+
+Learn How to tackle Real world Problems..
+Learn Collaborative based filtering
+Learn how to use Correlation for Recommending similar Movies or similar books
+Learn Content based recommendation system
+Learn how to use different Techniques like Average Weighted , Hybrid Model etc..
+Learn different types of Recommender Systems
